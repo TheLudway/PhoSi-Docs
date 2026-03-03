@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.4.0">
+  <diagram name="Page-1" id="hS15UzY46IDbyVUwer2l">
+    <mxGraphModel dx="955" dy="601" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7I2819D0VIUQl6h5-Y3L-15" edge="1" parent="1" source="7I2819D0VIUQl6h5-Y3L-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="7I2819D0VIUQl6h5-Y3L-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7I2819D0VIUQl6h5-Y3L-16" edge="1" parent="1" source="7I2819D0VIUQl6h5-Y3L-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7I2819D0VIUQl6h5-Y3L-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7I2819D0VIUQl6h5-Y3L-17" edge="1" parent="1" source="7I2819D0VIUQl6h5-Y3L-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7I2819D0VIUQl6h5-Y3L-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7I2819D0VIUQl6h5-Y3L-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="No hardware-rooted authenticity at image capture" vertex="1">
+          <mxGeometry height="60" width="120" x="341" y="193" as="geometry" />
+        </mxCell>
+        <mxCell id="7I2819D0VIUQl6h5-Y3L-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Loss of trust" vertex="1">
+          <mxGeometry height="60" width="120" x="162" y="61" as="geometry" />
+        </mxCell>
+        <mxCell id="7I2819D0VIUQl6h5-Y3L-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Legal risk" vertex="1">
+          <mxGeometry height="60" width="120" x="341" y="61" as="geometry" />
+        </mxCell>
+        <mxCell id="7I2819D0VIUQl6h5-Y3L-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="System vulnerability" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="61" as="geometry" />
+        </mxCell>
+        <mxCell id="7I2819D0VIUQl6h5-Y3L-19" edge="1" parent="1" source="7I2819D0VIUQl6h5-Y3L-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7I2819D0VIUQl6h5-Y3L-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7I2819D0VIUQl6h5-Y3L-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Loss of trust" vertex="1">
+          <mxGeometry height="60" width="120" y="309" as="geometry" />
+        </mxCell>
+        <mxCell id="7I2819D0VIUQl6h5-Y3L-20" edge="1" parent="1" source="7I2819D0VIUQl6h5-Y3L-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7I2819D0VIUQl6h5-Y3L-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7I2819D0VIUQl6h5-Y3L-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Legal risk" vertex="1">
+          <mxGeometry height="60" width="120" x="179" y="309" as="geometry" />
+        </mxCell>
+        <mxCell id="7I2819D0VIUQl6h5-Y3L-21" edge="1" parent="1" source="7I2819D0VIUQl6h5-Y3L-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7I2819D0VIUQl6h5-Y3L-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7I2819D0VIUQl6h5-Y3L-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="System vulnerability" vertex="1">
+          <mxGeometry height="60" width="120" x="358" y="309" as="geometry" />
+        </mxCell>
+        <mxCell id="7I2819D0VIUQl6h5-Y3L-22" edge="1" parent="1" source="7I2819D0VIUQl6h5-Y3L-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7I2819D0VIUQl6h5-Y3L-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7I2819D0VIUQl6h5-Y3L-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Legal risk" vertex="1">
+          <mxGeometry height="60" width="120" x="537" y="309" as="geometry" />
+        </mxCell>
+        <mxCell id="7I2819D0VIUQl6h5-Y3L-23" edge="1" parent="1" source="7I2819D0VIUQl6h5-Y3L-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7I2819D0VIUQl6h5-Y3L-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7I2819D0VIUQl6h5-Y3L-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="System vulnerability" vertex="1">
+          <mxGeometry height="60" width="120" x="716" y="309" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
